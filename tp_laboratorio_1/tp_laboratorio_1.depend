@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599779931 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcu.h"
+
+1599598652 c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_1\calcu.h
+
+1599779900 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_1\calcu.c
+	<stdio.h>
+	"calcu.h"
+
