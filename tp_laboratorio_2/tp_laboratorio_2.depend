@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1601403043 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\menu.c
+
+1601066266 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\validaciones.c
+
+1601406173 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employees.h"
+
+1601406173 c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\employees.h
+
+1601588754 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\employees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employees.h"
+
+1601240520 source:c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\createemployee.c
+	<stdio.h>
+	<stdlib.h>
+	"createEmployee.h"
+
+1601324564 c:\escritorio\cosasfacu\laboratorio\tp_laboratorio_2\createemployee.h
+	"employees.h"
+
